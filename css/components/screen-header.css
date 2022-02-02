@@ -3,6 +3,7 @@
     justify-content: space-between;
     align-items: center;
     padding:var(--horizontal-space);
+    max-top:1120px;
 }
 .screen-header_title{
     font-size: 32px;
