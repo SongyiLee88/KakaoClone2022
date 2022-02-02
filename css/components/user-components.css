@@ -1,3 +1,7 @@
 .user-components{
     display: flex;
 }
+
+.user-components:first-child{
+    display: flex;
+}
