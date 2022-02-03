@@ -45,3 +45,19 @@
     left:35px;
     bottom: 35px;
 }
+
+.chat-notification {
+    background-color: tomato;
+    width:30px;
+    height: 30px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: lavender;
+    font-weight: 600;
+   
+    left:15px;
+    bottom: 15px;
+    top:10px;
+   } 
