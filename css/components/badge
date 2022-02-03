@@ -1,4 +1,4 @@
-.badge {
+.badge{
   background-color: tomato;
   width:30px;
   height: 30px;
@@ -12,3 +12,5 @@
   left:15px;
   bottom: 15px;
  } 
+
+ 
