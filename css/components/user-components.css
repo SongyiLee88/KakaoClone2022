@@ -74,4 +74,21 @@
   right: -10px;
   top: -7px;
   }
+
+  .find_column-list{
+    display: flex;
+    flex-direction: column;
+    
+   
+  }
+
+  .find_column{
+    display: flex;
+    justify-content: space-between;
+    
+    align-items: center;
+ 
+    margin:0px var(--horizontal-space);
+    padding:0px var(--horizontal-space);
+  }
  
