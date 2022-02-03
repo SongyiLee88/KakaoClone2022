@@ -61,3 +61,10 @@ body {
   color:inherit;
   font-size: 13px;
 }
+
+.learning{
+  display: block;
+  justify-content: center;
+  align-content: center;
+  margin:130px;
+}
