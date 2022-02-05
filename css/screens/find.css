@@ -19,6 +19,8 @@
 .openchat-header{
   width=100%;
   padding: 10px var(--horizontal-space);
+  display:flex;
+  justify-content:start;
 }
 
 .openchat_col-left{color:black;}
