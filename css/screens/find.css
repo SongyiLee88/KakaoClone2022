@@ -21,4 +21,12 @@
   padding: 10px var(--horizontal-space);
 }
 
+.openchat_col-left{color:black;}
+.openchat_col-right{
+  display:block;
+  text-align: right;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.5);
+
+
 }
