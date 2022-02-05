@@ -1,0 +1,34 @@
+.recommended-friends{
+    width=100%;
+    padding:10px var(--horizontal-space);
+    border-bottom:var(--main-border);
+}
+
+.recommended-friends-title{
+    margin-bottom: 10px;
+}
+
+.recommended-friends-content{
+  margin: 100px 0;
+  display: block;
+  text-align: center;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.openchat-header{
+  width=100%;
+  padding: 10px var(--horizontal-space);
+  display:flex;
+  justify-content:start;
+}
+
+.openchat_col-left{color:black;}
+.openchat_col-right{
+  display:block;
+  text-align: right;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.5);
+
+
+}
