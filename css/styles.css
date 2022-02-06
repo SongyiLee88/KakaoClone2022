@@ -10,6 +10,7 @@
 @import "components/badge.css";
 @import "screens/find.css";
 @import "components/screen-header.css";
+@import "screens/more.css";
 
 body {
   font-family: "Open Sans", sans-serif;
